@@ -84,7 +84,6 @@ function addToCart(index) {
   updateCart();
 }
 
-// Listen for add to cart button clicks in gamesGrid
 gamesGrid.addEventListener('click', e => {
   if (e.target.classList.contains('add-btn')) {
     const index = parseInt(e.target.getAttribute('data-index'), 10);
