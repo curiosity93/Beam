@@ -3,25 +3,25 @@ const games = [
   {
     title: "Outer Expanse",
     price: 29.99,
-    img: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=600&q=80",
+    img: "images/OuterExpanse.png",
     description: "Explore the vastness of the far lands in this open-world exploration game"
   },
   {
     title: "Gunslinger",
     price: 34.99,
-    img: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
+    img: "images/Gunslinger.png",
     description: "Go up against your friends in a 3D movement FPS with fast-paced action"
   },
   {
     title: "Elemental combat",
     price: 24.50,
-    img: "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=600&q=80",
+    img: "images/ElementalCombat.png",
     description: "A 2D top down fighitng game with powerful elemental abilities and combos"
   },
   {
     title: "Elatrednu",
     price: 39.99,
-    img: "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=600&q=80",
+    img: "images/Elatrednu.png",
     description: "A game"
   }
 ];
